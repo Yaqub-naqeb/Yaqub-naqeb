@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yaqwbnaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaqwbnaqib" height="30" width="40" /></a>
-<a href="yaqub-naqeeb-b9894b238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yaqub-naqeeb-b9894b238/" height="30" width="40" /></a>
+<a href="yaqub-naqeeb-b9894b238/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/yaqub-naqeeb-b9894b238/)" alt="https://www.linkedin.com/in/yaqub-naqeeb-b9894b238/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/yaqubeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yaqubeng" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/yaqub_321_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yaqub_321_/" height="30" width="40" /></a>
 </p>
