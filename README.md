@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AVIBOOKS](https://avibooks.vercel.app/)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Redux toolkit**
 
 - 👨‍💻 All of my projects are available at [https://yaqwb-dev.netlify.app/](https://yaqwb-dev.netlify.app/)
 
