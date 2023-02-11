@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yaqwb Naqib</h1>
 <h3 align="center">A passionate frontend developer from Kurdistan</h3>
 
-- 🔭 I’m currently working on [AVIBOOKS](https://avibooks.vercel.app/)
+- 🔭 I’m currently working on [FriendFuse]([https://avibooks.vercel.app/](https://github.com/Yaqub-naqeb/FriendlyFuse))
 
-- 🌱 I’m currently learning **Redux toolkit**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://yaqwb-dev.netlify.app/](https://yaqwb-dev.netlify.app/)
 
