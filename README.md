@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [LinkPlus](https://link-plus.vercel.app/)
  -->
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://yaqwb-dev.netlify.app/](https://yaqwb-dev.netlify.app/)
 
