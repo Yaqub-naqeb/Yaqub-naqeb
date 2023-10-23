@@ -5,7 +5,7 @@
  -->
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://yaqwb-dev.netlify.app/](https://yaqwb-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yaqwb.vercel.app/](https://yaqwb.vercel.app/)
 
 - 📫 How to reach me **Yaqub.009448401@gmail.com**
 
