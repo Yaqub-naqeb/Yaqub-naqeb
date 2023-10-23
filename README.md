@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaqwb Naqib</h1>
-<h3 align="center">A passionate frontend developer from Kurdistan</h3>
+<h3 align="center">A passionate fullstack developer from Kurdistan</h3>
 
 <!-- - 🔭 I’m currently working on [LinkPlus](https://link-plus.vercel.app/)
  -->
